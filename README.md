@@ -1,6 +1,6 @@
 # 📊 Submission: Klasifikasi - Dicoding
 
-Proyek ini merupakan bagian dari submission kelas Machine Learning terapan di platform Dicoding. Fokus utama dari proyek ini adalah membangun model klasifikasi berdasarkan hasil clustering dari dataset penjualan minuman.
+Proyek ini merupakan bagian dari submission kelas Machine Learning terapan di platform Dicoding. Fokus utama dari proyek ini adalah membangun model klasifikasi berdasarkan hasil clustering dari dataset brain tumor.
 
 ## 📝 Deskripsi Proyek
 
